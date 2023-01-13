@@ -9,7 +9,7 @@ ul{
 .y{
     display: flex;
     flex-direction: column;
-    /* justify-items: center; */
+    
     font-weight: bold;
     align-items: center;
 }
@@ -17,7 +17,7 @@ ul{
 img{
     max-width: 500px;
     height: auto;
-    /* justify-items: center; */
+    
     border: black double 15px;
 }
 
@@ -29,7 +29,6 @@ img{
     border: solid red 5px;
     display: flex;
     flex-direction: column;
-    /* justify-items: center; */
     font-weight: bold;
     align-items: center;
     margin-left:100px;
@@ -43,7 +42,7 @@ td, th{
 table{
     display: flex;
     flex-direction: column;
-    /* justify-items: center; */
+   
     font-weight: bold;
     align-items: center;
 }
