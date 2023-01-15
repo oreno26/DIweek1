@@ -1,0 +1,56 @@
+ul{
+    margin-left: 90px;
+}
+.senses{
+    text-decoration: underline;
+    font-weight: bold;
+    margin-left: -40px;
+}
+.y{
+    display: flex;
+    flex-direction: column;
+    
+    font-weight: bold;
+    align-items: center;
+}
+
+img{
+    max-width: 500px;
+    height: auto;
+    
+    border: black double 15px;
+}
+
+
+#table{
+    align-items: center;
+}
+.table_head{
+    border: solid red 5px;
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    align-items: center;
+    margin-left:100px;
+    margin-right:100px;
+}
+
+td, th{
+    border: rgb(0, 0, 0) 5px solid;
+}
+
+table{
+    display: flex;
+    flex-direction: column;
+   
+    font-weight: bold;
+    align-items: center;
+}
+
+
+ol{
+   list-style: upper-roman;
+}
+
+
+
